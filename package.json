@@ -13,8 +13,8 @@
 , "dependencies"    : { "asap": "*"
                       , "csprng": "*"
                       , "faye-websocket": ">=0.9.1"
-                      , "tough-cookie": "*"
-                      , "tunnel-agent": "*"
+                      , "tough-cookie": "2.0.0"
+                      , "tunnel-agent": "0.4.1"
                       }
 , "devDependencies" : { "jstest": "~1.0.0"
                       , "mime": "~1.2.0"
